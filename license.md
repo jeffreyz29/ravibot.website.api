@@ -1,3 +1,7 @@
+---
+description: GNU AFFERO GENERAL PUBLIC LICENSE
+---
+
 # LICENSE
 
 ```
