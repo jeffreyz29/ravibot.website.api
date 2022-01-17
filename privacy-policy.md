@@ -24,7 +24,7 @@ This data is **NOT** held for any reason when the bot is removed from your serve
 
 Users are responsible for the data they provide to our bot.
 
-**The only information we retain on our database is:
+The only information we retain on our database is:
 
 UserIDs, GuildIDs, and Message Contents When customizing the bot.
 
