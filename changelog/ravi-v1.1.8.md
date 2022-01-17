@@ -128,9 +128,7 @@ Website:
 
 ## Saturday, June 5, 2021 (EST)
 
-**Change log (V.1.6)**\
-****\
-****Novelties & Upgrades
+**Change log (V.1.6)**
 
 * Gonna be doing a series of updates over the next week or two. I'm currently going over each command to optimize code and improve functionality and I'll update here if there are any command execution changes.
 * This is just a heads up that `inviteinfo` the module will be changed in terms of implementation to allow servers to have a history of their invite codes (this includes expired invites).
