@@ -45,7 +45,7 @@ Added:
 
 * `pinmsg/unpinmsg`
 
-Notes: pins a message from a given message id / unpins a msg from a given message id
+Notes: pins a message from a given message ID/ unpins a message from a given message ID
 
 example usage:
 
@@ -67,7 +67,7 @@ Added:
 
 **Notes**:
 
-* timeouts can not be set for more than over 1 week due to discord limits
+* timeouts can not be set for more than 1 week due to discord limits
 
 that's all for today best,
 
@@ -89,7 +89,7 @@ Others:
 * going to update `suggestions` modules with features of able to: `accept, deny cmds, etc`
 * going to add `hapm` the module commands just like when you use `!add pm/am` % `!remove pm/am` on the next update
 
-That\*\*'\*\*s all for today best,
+That's all for today best,
 
 your developer Jeffrey
 
@@ -126,28 +126,28 @@ Website:
 
 **Hop over to our support server If you need help with the new changelogs of Ravi's command changes.**
 
-## Saturday, June 5,2021 (EST)
+## Saturday, June 5, 2021 (EST)
 
-Novelties & Upgrades
-
-> ✅ Change log (Version 1.1.6) - \[ 05.06.21 | EST ]
+**Change log (V.1.6)**\
+****\
+****Novelties & Upgrades
 
 * Gonna be doing a series of updates over the next week or two. I'm currently going over each command to optimize code and improve functionality and I'll update here if there are any command execution changes.
 * This is just a heads up that `inviteinfo` the module will be changed in terms of implementation to allow servers to have a history of their invite codes (this includes expired invites).
 
-Embed Updates
+Embed Updates:
 
 * Currently, the embed creation commands are yet to still be in (beta)
 
-Partnerships Update
+Partnerships Update:
 
 * I am planning to implement a partnership counting system into the bot. (this is gonna take some time)
+
+Notes:
 
 The update is currently being applied gradually per-shard. So, be patient if the update hasn't reached your server yet.
 
 Guides: [here](https://ravi-docs.gitbook.io/ravi-documentaion/guide)
-
-Other than that I think that's all for the updates of the bot.
 
 On a final note, If you have any questions or are just curious, feel free to join the support server and ask !!
 
@@ -155,12 +155,11 @@ On a final note, If you have any questions or are just curious, feel free to joi
 
 **Changelog (v1.1.3)**
 
-* embedded all error/ & successful Messages
+Fixed:\
+\- embedded all error/ & successful Messages
 
-New commands -
+Added:\
+\- `!guide` : a guide to the bot
 
-* `!guide` : a guide to the bot
-
-Others -
-
-* Finally, I wanted to remind you all that command cooldowns are not here just to annoy you, but to ensure that Ravi does not get rate limited (slow). I did my best to make them as non-disruptive as possible, I will not lower cooldowns even if you ask. but I will try something new if that doesn’t work.
+Others:\
+\- Finally, I wanted to remind you all that command cooldowns are not here just to annoy you, but to ensure that Ravi does not get rate limited (slow). I did my best to make them as non-disruptive as possible, I will not lower cooldowns even if you ask. but I will try something new if that doesn’t work.
