@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [Privacy Policy](privacy-policy.md)
+* [LICENSE](license.md)
 * [FAQ](faq.md)
 * [Guide](guide/README.md)
   * [Ticketing help](guide/ticketing-help.md)
