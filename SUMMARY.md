@@ -17,7 +17,6 @@
 
 ## Changelog
 
-* [Page 1](changelog/page-1.md)
 * [Ravi (V1.1.8)](changelog/ravi-v1.1.8.md)
 
 ## Commands List
