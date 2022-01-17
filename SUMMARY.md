@@ -39,6 +39,4 @@
 
 ## our other public bot sites
 
-***
-
 * [kbot bots](https://kbot.gitbook.io/kbot-documentation/)

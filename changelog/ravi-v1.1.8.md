@@ -8,7 +8,7 @@ description: bots official updates will be posted here
 
 **Changelog (v1.1.8)**
 
-**Added**:&#x20;
+**Added**:
 
 1. `add user` - adds a user to a ticket
 2. `remove user` - removes a user from a ticket
@@ -20,7 +20,7 @@ description: bots official updates will be posted here
 
 **Others**:
 
-* none&#x20;
+* none
 
 ## Friday, January 14, 2022 (EST)
 
@@ -37,7 +37,7 @@ Others:
 
 * none
 
-## Wednesday, January 12, 2022 ( EST )&#x20;
+## Wednesday, January 12, 2022 ( EST )
 
 **Changelog (v1.1.8)**
 
@@ -48,13 +48,14 @@ Added:
 Notes: pins a message from a given message id / unpins a msg from a given message id
 
 example usage:
-- `!pinmsg 12345678` | `!unpinmsg 12345678`
+
+* `!pinmsg 12345678` | `!unpinmsg 12345678`
 
 Others:
 
 * none
 
-## Sunday, January 2, 2022 ( EST )&#x20;
+## Sunday, January 2, 2022 ( EST )
 
 **Changelog (v1.1.8)**
 
@@ -72,7 +73,7 @@ that's all for today best,
 
 your developer Jeffrey
 
-## Sunday, December 12, 2021 ( EST )&#x20;
+## Sunday, December 12, 2021 ( EST )
 
 **Changelog (v1.1.8)**
 
@@ -88,7 +89,7 @@ Others:
 * going to update `suggestions` modules with features of able to: `accept, deny cmds, etc`
 * going to add `hapm` the module commands just like when you use `!add pm/am` % `!remove pm/am` on the next update
 
-That**'**s all for today best,
+That\*\*'\*\*s all for today best,
 
 your developer Jeffrey
 
@@ -97,12 +98,11 @@ your developer Jeffrey
 * added [privacy policy](../privacy-policy.md) (these bot rules and terms of services will and can be changed at any time)
 * The Bot is also verified :smile:
 
-
 ## Wednesday, November 17, 2021 (EST)
 
 **Changelog (v1.1.8)**
 
-**After some problems we had when deploying it, finally, it's live.**&#x20;
+**After some problems we had when deploying it, finally, it's live.**
 
 Added:
 
@@ -137,11 +137,11 @@ Novelties & Upgrades
 
 Embed Updates
 
-* Currently, the embed creation commands are yet to still be in ( beta ), I am working hard to update this please yes I am lazy sometimes :<
+* Currently, the embed creation commands are yet to still be in (beta)
 
 Partnerships Update
 
-* I am planning to implement a partnership counting system into the bot ( this is gonna take some time )
+* I am planning to implement a partnership counting system into the bot. (this is gonna take some time)
 
 The update is currently being applied gradually per-shard. So, be patient if the update hasn't reached your server yet.
 
@@ -151,7 +151,7 @@ Other than that I think that's all for the updates of the bot.
 
 On a final note, If you have any questions or are just curious, feel free to join the support server and ask !!
 
-## Tuesday, February 2, 2021 ( EST )&#x20;
+## Tuesday, February 2, 2021 ( EST )
 
 **Changelog (v1.1.3)**
 
