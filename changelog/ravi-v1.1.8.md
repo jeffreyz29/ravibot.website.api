@@ -45,10 +45,10 @@ Added:
 
 * `pinmsg/unpinmsg`
 
-Notes: pins a message from a given message id / unpins a msg from a given message id \
-\
-example usage:\
-\- `!pinmsg 12345678` | `!unpinmsg 12345678`
+Notes: pins a message from a given message id / unpins a msg from a given message id
+
+example usage:
+- `!pinmsg 12345678` | `!unpinmsg 12345678`
 
 Others:
 
@@ -60,7 +60,9 @@ Others:
 
 Added:
 
-* `timeout` - sets the timeout to a certain user **eg**: `!timeout <user/userid> <unix>` **usage**: `!timeout @somebody 1w`
+* `timeout` - sets the timeout to a certain user **eg**: `!timeout <user/userid> <unix>`
+
+**usage**: `!timeout @somebody 1w`
 
 **Notes**:
 
@@ -93,7 +95,7 @@ your developer Jeffrey
 ## **Tuesday, November 30, 2021 (EST)**
 
 * added [privacy policy](../privacy-policy.md) (these bot rules and terms of services will and can be changed at any time)
-* The Bot is also verified :smile:\
+* The Bot is also verified :smile:
 
 
 ## Wednesday, November 17, 2021 (EST)
@@ -143,8 +145,8 @@ Partnerships Update
 
 The update is currently being applied gradually per-shard. So, be patient if the update hasn't reached your server yet.
 
-Guides: [here](https://ravi-docs.gitbook.io/ravi-documentaion/guide)\
-\
+Guides: [here](https://ravi-docs.gitbook.io/ravi-documentaion/guide)
+
 Other than that I think that's all for the updates of the bot.
 
 On a final note, If you have any questions or are just curious, feel free to join the support server and ask !!
