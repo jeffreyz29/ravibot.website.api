@@ -2,8 +2,6 @@
 description: Ravi Docs
 ---
 
-# Home
-
 ## Home
 
 * Join [**Ravi Support** ](https://discord.gg/gv2vjKqZP7)for regular updates & giveaways!
