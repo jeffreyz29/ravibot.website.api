@@ -143,19 +143,17 @@ Partnerships Update
 
 The update is currently being applied gradually per-shard. So, be patient if the update hasn't reached your server yet.
 
-Guides: [https://ravi-docs.gitbook.io/ravi-documentaion/guide](https://ravi-docs.gitbook.io/ravi-documentaion/guide)
-
+Guides: [here](https://ravi-docs.gitbook.io/ravi-documentaion/guide)\
+\
 Other than that I think that's all for the updates of the bot.
 
-Long story short I'm in need of support staff, apply for bot support if u want: [https://forms.gle/zUrJT78hFXcprWWY9](https://forms.gle/zUrJT78hFXcprWWY9)
-
-On a final note, If you have any questions or are just curious, feel free to join the support server and ask !! [https://discord.gg/eHwXZ7TUjc](https://discord.gg/eHwXZ7TUjc)&#x20;
+On a final note, If you have any questions or are just curious, feel free to join the support server and ask !!
 
 ## Tuesday, February 2, 2021 ( EST )&#x20;
 
 **Changelog (v1.1.3)**
 
-* embedded all error/ & successfull Messages
+* embedded all error/ & successful Messages
 
 New commands -
 

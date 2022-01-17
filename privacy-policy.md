@@ -8,9 +8,9 @@ Please read this Terms of Service agreement carefully before accessing or using 
 
 ## **Our services**
 
-1. [**Ravi Documentation**](https://ravi-docs.gitbook.io) - Documentation page of Ravi APM Ticket Bot.
-2. [**Ravi Bot**](https://bit.ly/ravitickets) **-** Our APM Ticketing Discord Bot
-3. [**Status Page**](https://ravi-bot.instatus.com) - Our Official Status Page for Ravi
+1. ****[**Ravi Documentation**](https://ravi-docs.gitbook.io) - Documentation page of Ravi APM Ticket Bot.
+2. ****[**Ravi Bot**](https://bit.ly/ravitickets) **-** Our APM Ticketing Discord Bot
+3. ****[**Status Page**](https://ravi-bot.instatus.com) - Our Official Status Page for Ravi
 
 ## Agreements
 
@@ -20,13 +20,13 @@ Your use of our Bot and Services must not violate Our Terms Of Services, Or you 
 
 Any data stored regarding your server, message details, or user details are removed from the bot's data when the bot is removed from your guild.
 
-This data is **NOT** held for any reason when the bot is removed from your server.
-
+This data is **NOT** held for any reason when the bot is removed from your server.\
+\
 Users are responsible for the data they provide to our bot.
 
-The only information we retain on our database is:
+**The only information we retain on our database is:**&#x20;
 
-UserIDs, GuildIDs, and Message Contents When customizing the bot.
+UserIDs, GuildIDs**,** and Message Contents When customizing the bot.&#x20;
 
 ## Data Deletion
 
@@ -42,6 +42,6 @@ Our Terms of Service at any time will be updated in the event of any such amendm
 
 ## Contact
 
-You may contact us via our [support server](https://discord.com/invite/gv2vjKqZP7).
-
-© 2022 Ravi Bot - All Rights Reserved
+You may contact us via our [support server](https://discord.com/invite/gv2vjKqZP7).\
+\
+© 2022 Ravi Bot - All Rights Reserved\
