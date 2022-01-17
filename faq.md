@@ -22,24 +22,18 @@ Firstly, please check the [**Ravi Support**](https://discord.gg/gv2vjKqZP7) Serv
 
 ## Why is **Ravi** not working as expected?
 
-Firstly, make sure **Ravi** has the proper permissions. Additionally, please make sure you have **Manage Server** permissions and that They are not offline. If neither of these are true, please join the [**Ravi Support**](https://discord.gg/gv2vjKqZP7) Server and create a new ticket.
+Firstly, make sure **Ravi** has the proper permissions. Additionally, please make sure you have **Manage Server** permissions and that They are not offline. If neither of these is true, please join the [**Ravi Support**](https://discord.gg/gv2vjKqZP7) Server and create a new ticket.
 
-{% hint style="danger" %}
 **Important:** If you are the owner of the server, make sure you have at least one role with **Manage Server** permissions. If you have no roles, Then **Ravi** will assume you do not have the proper permissions to **Manage** the bot.
-{% endhint %}
 
 ## I need help with a specific Command topic what can I do?
 
-{% hint style="info" %}
 **Tip:** If you need help with a specific command you can use:\
 `!guide or !nani topic`
-{% endhint %}
 
 ## **How can I make use of Ravi's features without granting it Administrator Permissions?**
 
-{% hint style="danger" %}
 **Important:** It is highly recommended that you grant **Ravi** Administrator permissions.
-{% endhint %}
 
 In order for **Them** to function properly, please grant the "**Ravi"** role the following permissions:
 
