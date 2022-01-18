@@ -20,6 +20,4 @@ description: Configuration for Partnerships
 | `remove pm [user] \| remove pm [UserID]` | removes the pm role from the mentioned user or by using a User ID     |
 | `remove am [user] \| remove Am [UserID]` | removes the am role from the mentioned user or by using a User ID     |
 
-{% hint style="danger" %}
 **Important:** The Bot needs to be above the pm/am role in order to grant permissions to give roles to the user & you must display the bot role for it as well.
-{% endhint %}
