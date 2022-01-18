@@ -29,4 +29,4 @@ This welcome/leave system is the newest feature, it may still cause some bugs. p
 just run: `!noticeme`\
 ``this will send you a command prompt to answer, If you like to send image proofs of the bug send it in a **code block** version.
 
-ex: `` !notice me `https://imagelink.png` ``
+ex: (!notice me \`https://imagelink.png\`)
