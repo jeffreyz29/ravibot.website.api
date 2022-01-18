@@ -6,7 +6,7 @@ description: Frequently Asked Questions
 
 ## Where can I get support for **Ravi**?
 
-You can get support for **Ravi** in the[ ](https://discord.gg/fDbpPDkaMU)****[**Ravi Support**](https://discord.gg/gv2vjKqZP7) **** discord server.
+You can get support for **Ravi** in the[ ](https://discord.gg/fDbpPDkaMU)[**Ravi Support**](https://discord.gg/gv2vjKqZP7) discord server.
 
 ## How can I add **Ravi** to my server?
 
@@ -14,11 +14,11 @@ You can invite **Ravi** to your server with this[ link](https://discord.com/oaut
 
 ## What is **Ravi**'s default prefix?
 
-**Ravi's** default prefix is `!`, you can't change it's prefix yet as it's still in beta.
+**Ravi's** default prefix is `!`, you can't change its prefix yet as it's still in beta.
 
 ## Why isn't **Ravi** responding to my commands?
 
-Firstly, please check the [**Ravi Support**](https://discord.gg/gv2vjKqZP7) Server for outages. If **Ravi** is not offline, please make sure you are not blacklisted from using **Ravi** due to a violation of discord TOS. If other users are able to use **Ravi** but you are not, you are likely blacklisted.&#x20;
+Firstly, please check the [**Ravi Support**](https://discord.gg/gv2vjKqZP7) Server for outages. If **Ravi** is not offline, please make sure you are not blacklisted from using **Ravi** due to a violation of discord TOS. If other users are able to use **Ravi** but you are not, you are likely blacklisted.
 
 ## Why is **Ravi** not working as expected?
 
