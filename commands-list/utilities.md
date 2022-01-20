@@ -32,14 +32,14 @@ description: Configuration for Utilities
 
 **Bot Owner | 9 commands**
 
-| Command         | Description                                                                                     |   |
-| --------------- | ----------------------------------------------------------------------------------------------- | - |
-| `shutdown`      | <p>Shuts the bot down.</p><p>Requires: <code>BOT DEV ONLY</code></p>                            |   |
-| `restart`       | <p>Restarts the bot down.<br>Requires: <code>BOT DEV ONLY</code></p>                            |   |
-| `devhelp`       | <p>Display's Developer Help Panel</p><p>Requires: <code>BOT DEV ONLY</code></p>                 |   |
-| `guild leave`   | <p>Leaves a certain guild/server</p><p>Requires: <code>BOT DEV ONLY</code></p>                  |   |
-| `unblst server` | <p>UnBlacklist a certain guild from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p> |   |
-| `blst server`   | <p>Blacklist a certain guild from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>   |   |
-| `blst user`     | <p>Blacklist a certain user from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>    |   |
-| `unblst user`   | <p>UnBlacklist a certain user from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>  |   |
-| `eval`          | This will execute every function that has been provided by a user.                              |   |
+| Command         | Description                                                                                     |
+| --------------- | ----------------------------------------------------------------------------------------------- |
+| `shutdown`      | <p>Shuts the bot down.</p><p>Requires: <code>BOT DEV ONLY</code></p>                            |
+| `restart`       | <p>Restarts the bot down.<br>Requires: <code>BOT DEV ONLY</code></p>                            |
+| `devhelp`       | <p>Display's Developer Help Panel</p><p>Requires: <code>BOT DEV ONLY</code></p>                 |
+| `guild leave`   | <p>Leaves a certain guild/server</p><p>Requires: <code>BOT DEV ONLY</code></p>                  |
+| `unblst server` | <p>UnBlacklist a certain guild from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p> |
+| `blst server`   | <p>Blacklist a certain guild from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>   |
+| `blst user`     | <p>Blacklist a certain user from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>    |
+| `unblst user`   | <p>UnBlacklist a certain user from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>  |
+| `eval`          | This will execute every function that has been provided by a user.                              |
