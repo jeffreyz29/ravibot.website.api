@@ -4,7 +4,9 @@ description: Ravi Docs
 
 # Home
 
-![GitHub issues](https://img.shields.io/github/issues/Jeffreyz1129/ravibot.website.api?style=for-the-badge) ![GitHub pull requests](https://img.shields.io/github/issues-pr/Jeffreyz1129/ravibot.website.api?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/Jeffreyz1129/ravibot.website.api?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/Jeffreyz1129/ravibot.website.api?style=for-the-badge) 
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Jeffreyz1129/ravibot.website.api?style=for-the-badge) 
+![GitHub Repo stars](https://img.shields.io/github/stars/Jeffreyz1129/ravibot.website.api?style=for-the-badge)
 
 * Join [**Ravi Support** ](https://discord.gg/gv2vjKqZP7)for regular updates & giveaways!
 * **Note**: Ravi's bot prefix is `!` ( not customizable)
