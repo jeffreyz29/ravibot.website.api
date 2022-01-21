@@ -34,8 +34,8 @@ Once you have added These bots it will keep track of commands executed and the B
 ### Documentation Syntax
 
 * `[!]` - prefix
-* `< >` required parameter
-* `( )`- optional parameter
+* `< >` - required parameter
+* `( )` - optional parameter
 * `<thing1 | thing2>` - select one of the given options
 
 ### Note from the owners
