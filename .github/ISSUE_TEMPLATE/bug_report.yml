@@ -1,0 +1,23 @@
+name: Bug Report
+description: File a bug report
+title: "[BUG]: your bug report title"
+labels: "maybe: bug"
+body:
+  - type: input
+    id: bot-info-version
+    attributes:
+      label: Bot Version
+      description: Check it with `!stats`
+      placeholder: eg. v3.9.4
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: "[optional] You may add screenshots to further explain your problem."
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: "[optional] You may provide additional context for us to better understand how this issue occured."
