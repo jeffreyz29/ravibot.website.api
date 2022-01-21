@@ -31,7 +31,7 @@
 
 ## Helpful Bot Links
 
-* [GitHub](https://github.com/Jeffreyz1129/ravi)
+* [GitHub](https://github.com/Jeffreyz1129/ravibot.website.api)
 * [Donate to us](https://ko-fi.com/jaehyun29)
 * [Support Server](https://discord.gg/2EbynXsv3s)
 * [Invite Ravi](https://discord.com/oauth2/authorize?client\_id=809561873040146461\&scope=bot\&permissions=2147483647)
