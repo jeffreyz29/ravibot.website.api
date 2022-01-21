@@ -4,7 +4,7 @@ description: Configuration for Utilities
 
 # Utilities
 
-**General | 19 commands**
+**General | 20 commands**
 
 | Command              | Description                                                                                                                                                                                             |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,6 +27,7 @@ description: Configuration for Utilities
 | `timeout`            | <p>sets a timeout to a specific user.<br>timeouts are only acceptable to 1 week duration<br>usage: <code>!timeout &#x3C;user/UserID> &#x3C;time></code></p>                                             |
 | `pinmsg`             | pins a message from a given message ID                                                                                                                                                                  |
 | `unpinmsg`           | unpins a message from a given message ID                                                                                                                                                                |
+| `serverinfo`         | Display's information about the server                                                                                                                                                                  |
 
 **Tip:** `[user]`can be a `@user` or a `userID`.
 

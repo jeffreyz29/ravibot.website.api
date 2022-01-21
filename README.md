@@ -4,9 +4,7 @@ description: Ravi Docs
 
 # Home
 
-![GitHub issues](https://img.shields.io/github/issues/Jeffreyz1129/ravibot.website.api?style=for-the-badge) 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Jeffreyz1129/ravibot.website.api?style=for-the-badge) 
-![GitHub Repo stars](https://img.shields.io/github/stars/Jeffreyz1129/ravibot.website.api?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/Jeffreyz1129/ravibot.website.api?style=for-the-badge) ![GitHub pull requests](https://img.shields.io/github/issues-pr/Jeffreyz1129/ravibot.website.api?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/Jeffreyz1129/ravibot.website.api?style=for-the-badge)
 
 * Join [**Ravi Support** ](https://discord.gg/gv2vjKqZP7)for regular updates & giveaways!
 * **Note**: Ravi's bot prefix is `!` ( not customizable)
@@ -25,7 +23,7 @@ description: Ravi Docs
 
 The first step is to make sure **Ravi** is actually in your guild! You can invite Both of these bots to guilds you have **Manage Server** permissions.
 
-* **Tip:** The Bot has **81** commands in total.
+* **Tip:** The Bot has **82** commands in total.
 * By default, **Ravi** will ask for Administrator permissions, and it is highly recommended that you grant them. You may also customize the bot's permissions by editing the bot's role. See FAQ for more details on customizing permissions.
 * **Important:** Giving **Ravi** Administrator permissions to ensure functionality.
 

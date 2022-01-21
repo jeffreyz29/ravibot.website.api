@@ -4,6 +4,17 @@ description: bots official updates will be posted here
 
 # Ravi (V1.1.8)
 
+## Thursday, January 20, 2022 (EST)
+
+**Changelog (v1.1.8)**\
+****\
+**Added**:\
+\
+\- **** `!serverinfo` - displays information about the provided server\
+****\
+**Others**:\
+\- none
+
 ## Saturday, January 15, 2022 (EST)
 
 **Changelog (v1.1.8)**
