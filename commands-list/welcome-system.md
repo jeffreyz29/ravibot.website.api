@@ -22,11 +22,12 @@
 | `disable-dm-welcome`    | Disables dm embed welcome message                    |
 | `disable-autonick`      | Disables from assigning members custom nickname      |
 | `disable-leave`         | Disables the leave system                            |
-| `disable-leave-mention` | <p>Disables the member leave mention <br></p>        |
+| `disable-leave-mention` | <p>Disables the member leave mention<br></p>         |
 
-This welcome/leave system is the newest feature, it may still cause some bugs. please report this to us developers immediately if this happens. \
+This welcome/leave system is the newest feature, it may still cause some bugs. please report this to us developers immediately if this happens.\
 \
 just run: `!noticeme`\
-``this will send you a command prompt to answer, If you like to send image proofs of the bug send it in a **code block** version.
+This will send you a command prompt to answer, If you like to send image proofs of the bug send it in a **code block** version.
 
-ex: (!notice me \`https://imagelink.png\`)
+ex: (``!notice me `https://imagelink.png`)``\
+``have the **\`** at the front and end of the image link
