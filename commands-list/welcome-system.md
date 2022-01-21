@@ -28,4 +28,4 @@ This welcome/leave system is the newest feature, it may still cause some bugs. p
 \
 just run: `!noticeme`\
 ``\
-``This will send you a command prompt to answer, If you like to send image proofs of the bug send it in a **code block** version, with the \*\*\`\*\* at the front and end of the image link
+``This will send you a command prompt to answer, If you like to send image proofs of the bug send it in a **code block** version, with the **\`** at the front and end of the image link
