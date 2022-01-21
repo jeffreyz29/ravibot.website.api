@@ -10,6 +10,8 @@ description: a simple help page for ticketing
 
 ![](<../.gitbook/assets/image (17).png>)
 
+![](../.gitbook/assets/IMG\_4047.jpg)
+
 After you enable the ticket system, you can then set the bot ticket settings from there. Once you finish setting up this system, everything should work right after\
 \
 Click [here](https://ravi-docs.gitbook.io/ravi-documentation/commands-list/ticketing) to see the full list of ticket commands\
