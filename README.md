@@ -29,16 +29,15 @@ The first step is to make sure **Ravi** is actually in your guild! You can invit
 
 ### Configuration
 
-Once you have added These bots it will keep track of commands executed and the Bot Owners can see everything you do with the Integration. In order to take advantage of all of **Ravi**'s features, please configure it in the bot settings.
+Once you have added The bot it will keep track of commands executed and the Bot Owners can see everything you do with the Integration. In order to take advantage of all of **Ravi**'s features, please configure it in the bot settings.
 
 ### Documentation Syntax
 
-*
 * `[!]` - prefix
 * `< >` - required channel parameter
 * `[ ]` - required parameter
 * `( )` - optional parameter
-* `<thing1 | thing2>` - select one of the given options
+* `[thing1 | thing2]` - select one of the given options
 
 ### Note from the owners
 
