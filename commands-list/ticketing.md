@@ -19,8 +19,8 @@ description: Configuration for Ticketing
 | `new [reason \| optional]`   | creates a new ticket with or without a reason                                                                       |
 | `close [reason \| optional]` | closed (deletes) the ticket with or without a reason                                                                |
 | `rename [name]`              | renames a ticket \[you must be in the ticket to rename it]                                                          |
-| `set-ticket-msg`             | Sets a custom ticket message to the tickets when created                                                            |
-| `setticketlog [#channel]`    | when someone executes the close ticket command it will send the ticket transcript to the channel it has been set to |
+| `set-ticket-msg [message]`   | Sets a custom ticket message to the tickets when created                                                            |
+| `setticketlog <#channel>`    | when someone executes the close ticket command it will send the ticket transcript to the channel it has been set to |
 | `add user`                   | adds a user to a ticket                                                                                             |
 | `remove user`                | removes a user from a ticket                                                                                        |
 

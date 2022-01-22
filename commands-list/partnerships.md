@@ -10,8 +10,8 @@ description: Configuration for Partnerships
 | ---------------------------------------- | --------------------------------------------------------------------- |
 | `setpmod [on/off]`                       | sets the pm module either on or off                                   |
 | `setamod [on/off]`                       | sets the am module either on or off                                   |
-| `setpmchannel [#channel]`                | sets the pm channel when someone is given the pm role                 |
-| `setamchannel [#channel]`                | sets the am channel when someone is given the am role                 |
+| `setpmchannel <#channel>`                | sets the pm channel when someone is given the pm role                 |
+| `setamchannel <#channel>`                | sets the am channel when someone is given the am role                 |
 | `setrole pm [role id]`                   | sets the pm role                                                      |
 | `setrole am [role id]`                   | sets the am role                                                      |
 | `setpmmsg [message]`                     | sets a pm welcome message when someone executes `add pm \| am <user>` |
