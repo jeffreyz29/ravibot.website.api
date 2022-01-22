@@ -38,7 +38,7 @@ Once you have added These bots it will keep track of commands executed and the B
 * `< >` - required channel parameter
 * `[ ]` - required parameter
 * `( )` - optional parameter
-* `<thing1 | thing2>` - select one of the given options
+* `[thing1 | thing2]` - select one of the given options
 
 ### Note from the owners
 
