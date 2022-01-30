@@ -23,7 +23,7 @@ description: Ravi Docs
 
 The first step is to make sure **Ravi** is actually in your guild! You can invite the bot to guilds you have with "**Manage Server"** permissions.
 
-* **Tip:** The Bot has **82** commands in total.
+* **Tip:** The Bot has **83** commands in total.
 * By default, **Ravi** will ask for Administrator permissions, and it is highly recommended that you grant them. You may also customize the bot's permissions by editing the bot's role. See FAQ for more details on customizing permissions.
 * **Important:** Giving **Ravi** Administrator permissions to ensure functionality.
 * For more specific and detailed help for each commands, use `?nani [topic]`.&#x20;

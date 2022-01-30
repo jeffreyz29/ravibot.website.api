@@ -28,6 +28,7 @@ description: Configuration for Utilities
 | `pinmsg`             | pins a message from a given message ID                                                                                                                                                                  |
 | `unpinmsg`           | unpins a message from a given message ID                                                                                                                                                                |
 | `serverinfo`         | Display's information about the server                                                                                                                                                                  |
+| `calc`               | Calculates a given expression                                                                                                                                                                           |
 
 **Tip:** `[user]`can be a `@user` or a `userID`.
 

@@ -4,6 +4,18 @@ description: bots official updates will be posted here
 
 # Ravi (V1.1.8)
 
+## Sunday, January 20, 2022 (EST)
+
+**Changelog (v1.1.8)**
+
+**Added**:
+
+* `!calc` - calculates a given expression
+
+**Others**:
+
+* none
+
 ## Thursday, January 20, 2022 (EST)
 
 **Changelog (v1.1.8)**
@@ -13,6 +25,7 @@ description: bots official updates will be posted here
 * `!serverinfo` - displays information about the provided server
 
 **Others**:
+
 * none
 
 ## Saturday, January 15, 2022 (EST)
