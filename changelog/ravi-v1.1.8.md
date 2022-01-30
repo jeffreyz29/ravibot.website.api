@@ -4,7 +4,7 @@ description: bots official updates will be posted here
 
 # Ravi (V1.1.8)
 
-## Sunday, January 20, 2022 (EST)
+## Sunday, January 30, 2022 (EST)
 
 **Changelog (v1.1.8)**
 
