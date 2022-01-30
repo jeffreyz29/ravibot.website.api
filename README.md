@@ -36,7 +36,7 @@ Once you have added The bot it will keep track of commands executed and the Bot 
 ### Documentation Syntax
 
 * `[!]` - prefix
-* `< >` - required channel parameter
+* `<#channel>` - required channel parameter
 * `[ ]` - required parameter
 * `( )` - optional parameter
 * `[thing1 | thing2]` - select one of the given options
