@@ -4,6 +4,13 @@ description: bots official updates will be posted here
 
 # Ravi (V1.1.8)
 
+## Tuesday, February 01, 2022 (EST)
+
+**Changelog (vv.1.9)**\
+****\
+**Updated:**\
+**-** commands layout have been changed for easiier reading
+
 ## Sunday, January 30, 2022 (EST)
 
 **Changelog (v1.1.8)**
