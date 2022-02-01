@@ -6,7 +6,7 @@ description: bots official updates will be posted here
 
 ## Tuesday, February 01, 2022 (EST)
 
-**Changelog (vv.1.9)**\
+**Changelog (v1.1.9)**\
 ****\
 **Updated:**\
 **-** commands layout have been changed for easier reading
