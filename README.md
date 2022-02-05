@@ -26,8 +26,8 @@ The first step is to make sure **Ravi** is actually in your guild! You can invit
 * **Tip:** The Bot has **83** commands in total.
 * By default, **Ravi** will ask for Administrator permissions, and it is highly recommended that you grant them. You may also customize the bot's permissions by editing the bot's role. See FAQ for more details on customizing permissions.
 * **Important:** Giving **Ravi** Administrator permissions to ensure functionality.
-* For more specific and detailed help for each commands, use `?nani [topic]`.&#x20;
-* For guides on how to use the bot, use `?guide`.
+* For more specific and detailed help for each command, use `!nani [topic]`.&#x20;
+* For guides on how to use the bot, use `!guide`.
 
 ### Configuration
 
