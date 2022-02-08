@@ -35,13 +35,47 @@ Firstly, make sure **Ravi** has the proper permissions. Additionally, please mak
 
 **Important:** It is highly recommended that you grant **Ravi** Administrator permissions.
 
-In order for **Them** to function properly, please grant the "**Ravi"** role the following permissions:
+In order for **Them** to function properly, Below are the supported permissions **Ravi** will be asked to use:
 
-* Manage Server
-* Manage Roles
-* Read Text Channels & See Voice Channels
-* Send Messages
-* Manage Messages
-* Embed Links
-* Use External Emojis
-* Add Reactions
+```
+- createinstantinvite
+- kick
+- ban
+- admin
+- managechannels
+- manageserver
+- addreactions
+- viewauditlog
+- priorityspeaker
+- stream
+- readmessages
+- sendmessages
+- tts
+- managemessages
+- embedlinks
+- attachfiles
+- readmessagehistory
+- mentioneveryone
+- externalemojis
+- viewguildinsights
+- connect
+- speak
+- voicemute
+- voicedeafen
+- movemembers
+- usevad
+- changenicknames
+- managenicknames
+- manageroles
+- managewebhooks
+- manageemojis/managestickers
+- slashcommands
+- requesttospeak
+- manageevents
+- managethreads
+- createpublicthreads
+- createprivatethreads
+- externalstickers
+- sendmessagesinthreads
+- moderatemembers
+```
