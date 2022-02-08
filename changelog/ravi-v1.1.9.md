@@ -4,6 +4,13 @@ description: bots official updates will be posted here
 
 # Ravi (V1.1.9)
 
+## Tuesday, February 08, 2022 (EST)
+
+**Changelog (v1.1.9)**
+
+**Updated**: \
+Ravi will now automatically leave the guild if the bot doesn't reach minimum server **member requirements** (human members). you will need to have 65 real human members :)
+
 ## Tuesday, February 01, 2022 (EST)
 
 **Changelog (v1.1.9)**\
