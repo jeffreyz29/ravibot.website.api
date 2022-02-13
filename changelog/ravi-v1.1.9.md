@@ -4,6 +4,15 @@ description: bots official updates will be posted here
 
 # Ravi (V1.1.9)
 
+## Sunday, February 13, 2022 (EST)
+
+**Changelog (v1.1.9)**
+
+**Fixed**: \
+\- `pinmsg` & `unpinmsg`
+
+Notes: both cmd has been fixed and works functionally now
+
 ## Tuesday, February 08, 2022 (EST)
 
 **Changelog (v1.1.9)**
