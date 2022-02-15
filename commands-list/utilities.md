@@ -45,3 +45,4 @@ description: Configuration for Utilities
 | `blst user`     | <p>Blacklist a certain user from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>    |
 | `unblst user`   | <p>UnBlacklist a certain user from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>  |
 | `eval`          | This will execute every function that has been provided by a user.                              |
+| `serverlist`    | display's info about each guilds, and shows how many servers the bot has connected to           |
