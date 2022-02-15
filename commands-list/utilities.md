@@ -32,7 +32,7 @@ description: Configuration for Utilities
 
 **Tip:** `[user]`can be a `@user` or a `userID`.
 
-**Bot Owner | 9 commands**
+**Bot Owner | 10 commands**
 
 | Command         | Description                                                                                     |
 | --------------- | ----------------------------------------------------------------------------------------------- |
