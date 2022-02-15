@@ -4,6 +4,12 @@ description: bots official updates will be posted here
 
 # Ravi (V1.1.9)
 
+## Tuesday, February 15, 2022 (EST)
+
+**Changelog (v1.1.9)**\
+**Added**:\
+\- `serverlist` - retrieves server invites and displays information on how many servers the bot has connected to
+
 ## Sunday, February 13, 2022 (EST)
 
 **Changelog (v1.1.9)**
