@@ -4,6 +4,30 @@ description: bots official updates will be posted here
 
 # Ravi (V1.1.9)
 
+## Friday, March 18, 2022 (EST)
+
+### | Ping if help/urgent_:_
+
+﻿**ANNOUNCEMENT**﻿
+
+﻿﻿Ravi is currently the beta version of `v1.2.0`﻿ Going forward, this will be the only version I will maintain and will work on until it's released.﻿\
+\
+The following things:\
+\- The "\`embed builder﻿" subcommand will not be updated. For now, this version of the embed builder will be kept under beta phase.\
+\- The "﻿inviteinfo﻿" subcommand does not retrieve other servers invite information.\
+\- Ravi may respond a little faster, you might experience some slow replies, due to the hosting server being wonky some of the time.\
+\
+﻿If you experience any issues with the new update, please let me know!﻿\
+\
+Guides & Links:﻿\
+Privacy Policy: [https://ravi-docs.gitbook.io/ravi-documentation/privacy-policy﻿](https://ravi-docs.gitbook.io/ravi-documentation/privacy-policy)\
+GitHub: [﻿https://github.com/Jeffreyz1129/ravibot.website.api﻿](https://github.com/Jeffreyz1129/ravibot.website.api)\
+FAQ: ﻿[https://ravi-docs.gitbook.io/ravi-documentation/faq﻿](https://ravi-docs.gitbook.io/ravi-documentation/faq)\
+Guide: ﻿[https://ravi-docs.gitbook.io/ravi-documentation/guide﻿](https://ravi-docs.gitbook.io/ravi-documentation/guide)\
+Changelog: ﻿[https://ravi-docs.gitbook.io/ravi-documentation/changelog/ravi-v1.1.9﻿](https://ravi-docs.gitbook.io/ravi-documentation/changelog/ravi-v1.1.9)\
+\
+﻿If you have any concerns, questions, or suggestions about Ravi, please ask in the support server
+
 ## Tuesday, February 15, 2022 (EST)
 
 **Changelog (v1.1.9)**\
