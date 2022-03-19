@@ -6,8 +6,6 @@ description: bots official updates will be posted here
 
 ## Friday, March 18, 2022 (EST)
 
-### | Ping if help/urgent_:_
-
 ﻿**ANNOUNCEMENT**﻿
 
 ﻿﻿Ravi is currently the beta version of `v1.2.0`﻿ Going forward, this will be the only version I will maintain and will work on until it's released.﻿\
