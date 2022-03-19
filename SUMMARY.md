@@ -34,10 +34,6 @@
 * [GitHub](https://github.com/Jeffreyz1129/ravibot.website.api)
 * [Donate to us](https://ko-fi.com/jaehyun29)
 * [Support Server](https://discord.gg/2EbynXsv3s)
-* [Invite Ravi](https://discord.com/oauth2/authorize?client\_id=809561873040146461\&scope=bot\&permissions=2147483647)
+* [Invite Ravi](https://bit.ly/raviticket)
 * [Status Page](https://ravi-bot.instatus.com)
 * [Top.gg](https://top.gg/bot/809561873040146461)
-
-## our other public bot sites
-
-* [kbot bots](https://kbot.gitbook.io/kbot-documentation/)

@@ -10,7 +10,7 @@ You can get support for **Ravi** in the[ ](https://discord.gg/fDbpPDkaMU)[**Ravi
 
 ## How can I add **Ravi** to my server?
 
-You can invite **Ravi** to your server with this[ link](https://discord.com/oauth2/authorize?client\_id=809561873040146461\&scope=bot\&permissions=2147483647).
+You can invite **Ravi** to your server with this [link.](https://bit.ly/raviticket)
 
 ## What is **Ravi**'s default prefix?
 

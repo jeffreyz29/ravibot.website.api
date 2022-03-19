@@ -9,7 +9,7 @@ Please read this Terms of Service agreement carefully before accessing or using 
 ## **Our services**
 
 1. [**Ravi Documentation**](https://ravi-docs.gitbook.io) - Documentation page of Ravi APM Ticket Bot.
-2. [**Ravi Bot**](https://bit.ly/ravitickets) **-** Our APM Ticketing Discord Bot
+2. ****[**Ravi Bot**](https://bit.ly/raviticket) **-** Our APM Ticketing Discord Bot
 3. [**Status Page**](https://ravi-bot.instatus.com) - Our Official Status Page for Ravi
 
 ## Agreements
