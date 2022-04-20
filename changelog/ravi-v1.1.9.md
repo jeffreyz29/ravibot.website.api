@@ -4,6 +4,12 @@ description: bots official updates will be posted here
 
 # Ravi (V1.1.9)
 
+## Wednesday, April 20, 2022 (EST)
+
+**Changelog (v1.1.9)**\
+**Added**:\
+\- `colorinfo` - displays a given hex code info
+
 ## Friday, March 18, 2022 (EST)
 
 ﻿**ANNOUNCEMENT**﻿
