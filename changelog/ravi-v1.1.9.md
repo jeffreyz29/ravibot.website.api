@@ -6,9 +6,16 @@ description: bots official updates will be posted here
 
 ## Wednesday, April 20, 2022 (EST)
 
-**Changelog (v1.1.9)**\
-**Added**:\
-\- `colorinfo` - displays a given hex code info
+**Changelog (v1.1.9)**
+
+**Added**: \
+double layer blst system to the bot to prevent people from abusing bot cmds, making it hard for the bot to reply quicker then usual.
+
+if you or your server has been blsted please appeal in #﹒blst-appeal-server & #﹒blst-appeal-user and use the format.
+
+new cmd:
+
+* `colorinfo` - displays a given hex color code information
 
 ## Friday, March 18, 2022 (EST)
 
