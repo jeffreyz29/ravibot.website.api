@@ -29,6 +29,7 @@ description: Configuration for Utilities
 | `unpinmsg`           | unpins a message from a given message ID                                                                                                                                                                |
 | `serverinfo`         | Display's information about the server                                                                                                                                                                  |
 | `calc`               | Calculates a given expression                                                                                                                                                                           |
+| `colorinfo`          | Displays the given hex color info                                                                                                                                                                       |
 
 **Tip:** `[user]`can be a `@user` or a `userID`.
 
