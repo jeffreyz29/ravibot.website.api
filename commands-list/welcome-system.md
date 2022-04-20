@@ -1,6 +1,6 @@
 # Welcome System
 
-**Welcome/Leave Config | 19 commands**
+**Welcome/Leave Config | 20 commands**
 
 | Command                   | Description                                          |
 | ------------------------- | ---------------------------------------------------- |
