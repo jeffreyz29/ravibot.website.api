@@ -13,7 +13,7 @@ double layer blst system to the bot to prevent people from abusing bot cmds, mak
 
 if you or your server has been blsted please appeal in #﹒blst-appeal-server & #﹒blst-appeal-user and use the format.
 
-new cmd:
+**new cmd**:
 
 * `colorinfo` - displays a given hex color code information
 
