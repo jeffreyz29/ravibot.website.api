@@ -30,6 +30,7 @@ description: Configuration for Utilities
 | `serverinfo`         | Display's information about the server                                                                                                                                                                  |
 | `calc`               | Calculates a given expression                                                                                                                                                                           |
 | `colorinfo`          | Displays the given hex color info                                                                                                                                                                       |
+| `define`             | defines a given word                                                                                                                                                                                    |
 
 **Tip:** `[user]`can be a `@user` or a `userID`.
 
