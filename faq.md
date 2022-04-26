@@ -22,7 +22,7 @@ Firstly, please check the [**Ravi Support**](https://discord.gg/gv2vjKqZP7) Serv
 
 ## Why is **Ravi** not working as expected?
 
-Firstly, make sure **Ravi** has the proper permissions. Additionally, please make sure you have **Manage Server** permissions and that They are not offline. If neither of these is true, please join the [**Ravi Support**](https://discord.gg/gv2vjKqZP7) Server and create a new ticket.
+Firstly, make sure **Ravi** has the proper permissions. Additionally, please make sure you have **Manage Server** permissions and that he is not offline.
 
 **Important:** If you are the owner of the server, make sure you have at least one role with **Manage Server** permissions. If you have no roles, Then **Ravi** will assume you do not have the proper permissions to **Manage** the bot.
 
