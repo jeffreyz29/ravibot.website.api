@@ -36,12 +36,14 @@ You may request to have certain data removed. For servers, a server owner or oth
 
 We do not share any data with third parties.
 
-## Changes of Terms Of Services
+## Changes in Terms Of Services
 
 Our Terms of Service at any time will be updated in the event of any such amendments.
 
 ## Contact
 
-You may contact us via our [support server](https://discord.com/invite/gv2vjKqZP7). or you can email us at `ravibot.zohodesk.com/portal`\
+You may contact us via our [support server](https://discord.com/invite/gv2vjKqZP7) or you can contact us at:\
+\
+[`https://ravibot.zohodesk.com/portal/en/home`](https://ravibot.zohodesk.com/portal/en/home)\
 \
 © 2022 Ravi Bot - All Rights Reserved

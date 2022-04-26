@@ -47,4 +47,4 @@ We receive all Dms we get from our bots get! please do not troll or spam It's DM
 
 ### Signed,
 
-Jeffrey & Meko
+Jeffrey
