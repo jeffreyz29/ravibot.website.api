@@ -35,7 +35,7 @@ Firstly, make sure **Ravi** has the proper permissions. Additionally, please mak
 
 **Important:** It is highly recommended that you grant **Ravi** Administrator permissions.
 
-In order for **Them** to function properly, Below are the supported permissions **Ravi** will be asked to use:
+In order for **him** to function properly, Below are the supported permissions **Ravi** will be asked to use:
 
 ```
 - createinstantinvite
