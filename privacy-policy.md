@@ -42,6 +42,6 @@ Our Terms of Service at any time will be updated in the event of any such amendm
 
 ## Contact
 
-You may contact us via our [support server](https://discord.com/invite/gv2vjKqZP7).\
+You may contact us via our [support server](https://discord.com/invite/gv2vjKqZP7). or you can email us at `support@ravibot.zohodesk.com`\
 \
 © 2022 Ravi Bot - All Rights Reserved
