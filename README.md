@@ -8,7 +8,7 @@ description: Ravi Docs
 
 * Join [**Ravi Support** ](https://discord.gg/gv2vjKqZP7)for regular updates & giveaways!
 * **Note**: Ravi's bot prefix is `!` ( not customizable)
-* **Invite:** [**Click Here**](https://bit.ly/raviticket)****
+* **Invite:** [**Click Here**](https://bit.ly/raviticket)
 
 ### Introduction
 
