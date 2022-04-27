@@ -31,6 +31,7 @@
 
 ## Helpful Bot Links
 
+* [Help Desk](https://ravibot.zohodesk.com)
 * [GitHub](https://github.com/Jeffreyz1129/ravibot.website.api)
 * [Support Server](https://discord.gg/2EbynXsv3s)
 * [Invite Ravi](https://bit.ly/raviticket)
