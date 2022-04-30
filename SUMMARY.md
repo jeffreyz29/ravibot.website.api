@@ -34,6 +34,7 @@
 * [Help Desk](https://ravibot.zohodesk.com)
 * [GitHub](https://github.com/Jeffreyz1129/ravibot.website.api)
 * [Support Server](https://discord.gg/2EbynXsv3s)
-* [Invite Ravi](https://bit.ly/raviticket)
+* [Ravi Non Slash Version](https://bit.ly/raviticket)
+* [Ravi Slash Version](https://discord.com/api/oauth2/authorize?client\_id=809561873040146461\&permissions=8\&scope=bot%20applications.commands)
 * [Status Page](https://ravi-bot.instatus.com)
 * [Top.gg](https://top.gg/bot/809561873040146461)
