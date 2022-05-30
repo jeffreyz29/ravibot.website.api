@@ -4,6 +4,14 @@ description: bots official updates will be posted here
 
 # Ravi (V1.1.9)
 
+## Monday, May 30, 2022 (EST)
+
+**Changelog (v1.1.9)**
+
+**Added**: \
+\- `vars`\
+``note: cmd is only available to the bot managers/developers only that has the `BOT_DEVELOPER_PERMISSION`&#x20;
+
 ## Wednesday, April 20, 2022 (EST)
 
 **Changelog (v1.1.9)**
