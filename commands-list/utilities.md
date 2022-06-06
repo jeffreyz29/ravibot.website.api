@@ -48,3 +48,5 @@ description: Configuration for Utilities
 | `unblst user`   | <p>UnBlacklist a certain user from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>                                      |
 | `eval`          | <p>This will execute every function that has been provided by a user.<br>Requires: <code>BOT DEV ONLY</code></p>                    |
 | `serverlist`    | <p>display's info about each guilds, and shows how many servers the bot has connected to<br>Requires: <code>BOT DEV ONLY</code></p> |
+| `var <server/user> <set/view> <var name> <amount>`    | <p>bot variable settings, that displays serverws/users database vars<br>Requires: <code>BOT DEV ONLY</code></p> |
+
