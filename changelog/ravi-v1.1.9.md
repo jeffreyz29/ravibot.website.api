@@ -10,7 +10,7 @@ description: bots official updates will be posted here
 
 **Added**: \
 \- `vars`\
-``note: cmd is only available to the bot managers/developers only that has the `BOT_DEVELOPER_PERMISSION`&#x20;
+note: cmd is only available to the bot managers/developers only that has the `BOT_DEVELOPER_PERMISSION`&#x20;
 
 ## Wednesday, April 20, 2022 (EST)
 
@@ -72,7 +72,7 @@ Ravi will now automatically leave the guild if the bot doesn't reach minimum ser
 ## Tuesday, February 01, 2022 (EST)
 
 **Changelog (v1.1.9)**\
-****\
+\
 **Updated:**\
 **-** commands layout have been changed for easier reading
 
