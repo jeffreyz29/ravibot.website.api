@@ -18,6 +18,6 @@ description: Configuration for Partnerships
 | `add pm [user] \| add pm [UserID]`       | adds the pm role to the mentioned user or by using a User ID          |
 | `add am [user] \| add am [UserID]`       | adds the am role to the mentioned user or by using a User ID          |
 | `remove pm [user] \| remove pm [UserID]` | removes the pm role from the mentioned user or by using a User ID     |
-| `remove am [user] \| remove Am [UserID]` | removes the am role from the mentioned user or by using a User ID     |
+| `remove am [user] \| remove am [UserID]` | removes the am role from the mentioned user or by using a User ID     |
 
 **Important:** The Bot needs to be above the pm/am role in order to grant permissions to give roles to the user & you must display the bot role for it as well.
