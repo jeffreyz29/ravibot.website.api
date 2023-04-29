@@ -4,7 +4,7 @@ description: Configuration for Ticketing
 
 # Ticketing
 
-**Ticketing | 15 commands**
+**Ticketing | 17 commands**
 
 | Command                       | Description                                                                                                         |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------- |

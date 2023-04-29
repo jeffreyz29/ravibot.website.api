@@ -22,12 +22,12 @@
 
 ## Commands List
 
+* [Utilities](commands-list/utilities.md)
 * [Management](commands-list/management.md)
-* [Welcome System](commands-list/welcome-system.md)
 * [Suggestions](commands-list/suggestions.md)
 * [Ticketing](commands-list/ticketing.md)
+* [Welcome System](commands-list/welcome-system.md)
 * [Partnerships](commands-list/partnerships.md)
-* [Utilities](commands-list/utilities.md)
 
 ## Helpful Bot Links
 
