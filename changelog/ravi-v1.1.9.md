@@ -4,6 +4,14 @@ description: bots official updates will be posted here
 
 # Ravi (V1.1.9)
 
+## Saturday, April 29, 2023 (EST)
+
+**Changelog (v1.1.9)**\
+\
+**Added:**\
+**-** `ticket blacklist add/remove` \
+notes: You can now blacklist users from creating tickets in your portal as simple as two commands!
+
 ## Monday, May 30, 2022 (EST)
 
 **Changelog (v1.1.9)**
