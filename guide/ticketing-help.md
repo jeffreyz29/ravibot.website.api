@@ -4,16 +4,16 @@ description: a simple help page for ticketing
 
 # Ticketing help
 
-## How do I set the Ticket system?
+## How do I set up the Ticket system?
 
 * In order to set up the ticket system, you can just type: `!enable-tickets`
 
-![](<../.gitbook/assets/image (17).png>)
+<figure><img src="../.gitbook/assets/Image 5-1-23 at 5.12 PM.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/IMG\_4047.jpg)
+<figure><img src="../.gitbook/assets/IMG_4047.jpg" alt="" width="497"><figcaption></figcaption></figure>
 
 After you enable the ticket system, you can then set the bot ticket settings from there. Once you finish setting up this system, everything should work right after\
 \
 Click [here](https://ravi-docs.gitbook.io/ravi-documentation/commands-list/ticketing) to see the full list of ticket commands\
 \
-Discord will automatically sync its category permissions when new channels are created, with the channels if discord does not sync its perms you must go to the channel settings press "sync perms" to sync them manually.
+Discord will automatically sync its category permissions when new channels are created, with the channels if Discord does not sync its perms you must go to the channel settings and press "sync perms" to sync them manually.
