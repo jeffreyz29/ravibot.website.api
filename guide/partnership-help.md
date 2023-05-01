@@ -1,10 +1,10 @@
 ---
-description: a simple help page for partnerships
+description: a simple help page for apms
 ---
 
 # partnership help
 
-side note: this feature of the bot is still yet to be in beta, so there won't be any more updates on this part of the bot system.
+side note: unlike other partnership counting bots this bot is still in beta. there won't be any more updates on this part of the bot system.&#x20;
 
 ## How do I set the partnership module with the bot?
 
