@@ -14,4 +14,4 @@ Example usage for embed image:
 !C-image [your image link] + [color]
 ```
 
-**Notes**: You can’t edit the embed you made, If you made an mistake you can redo the steps again by running: !Create-embed \[title] + \[description] + \[color] for any questions on how to use the embed builder please Join [**Support**](https://discord.gg/2EbynXsv3s) **server for help**
+**Notes**: You can’t edit the embed you made, If you made an mistake you can redo the steps again by running: `!Create-embed [title] + [description] + [color]` for any questions on how to use the embed builder please Join [**Support**](https://discord.gg/2EbynXsv3s) **server for help**
