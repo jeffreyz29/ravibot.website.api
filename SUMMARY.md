@@ -9,6 +9,7 @@
   * [Suggestions help](guide/suggestions-help.md)
   * [embed help](guide/embed-help.md)
   * [partnership help](guide/partnership-help.md)
+  * [welcome/leave system](guide/welcome-leave-system.md)
 
 ## Bot Forms
 
