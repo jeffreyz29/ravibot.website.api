@@ -11,12 +11,6 @@
   * [partnership help](guide/partnership-help.md)
   * [welcome/leave system](guide/welcome-leave-system.md)
 
-## Bot Forms
-
-* [Bot Staff Form](https://forms.gle/cdyi41mGdFQZroez8)
-* [Bot Beta Tester Form](https://forms.gle/DnRUkrGLbCeSCaA59)
-* [Bot Support Form](https://forms.gle/HuMyUdsgpimxR9DR7)
-
 ## Changelog
 
 * [Ravi (V1.1.9)](changelog/ravi-v1.1.9.md)
