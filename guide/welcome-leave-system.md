@@ -6,6 +6,6 @@ description: a help page to setup welcome/leave system
 
 please check this[ wiki](../commands-list/welcome-system.md) to get started&#x20;
 
-
-
-{% embed url="https://ravi-docs.gitbook.io/ravi-documentation/commands-list/welcome-system" %}
+{% content-ref url="welcome-leave-system.md" %}
+[welcome-leave-system.md](welcome-leave-system.md)
+{% endcontent-ref %}
