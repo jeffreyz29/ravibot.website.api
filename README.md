@@ -1,35 +1,23 @@
 ---
-description: Ravi Docs
+description: Introduction to ravi apm bot
 ---
 
 # Home
 
-* Join [**Ravi Support** ](https://discord.gg/gv2vjKqZP7)for regular updates & giveaways!
-* **Note**: Ravi's bot prefix is `!` ( not customizable)
-* **Invite:** [**Click Here**](https://bit.ly/raviticket)
+### First, add please add the bot by clicking [here](https://discord.com/api/oauth2/authorize?client\_id=809561873040146461\&permissions=8\&redirect\_uri=https%3A%2F%2Fravi-docs.gitbook.io%2Fravi-documentation\&response\_type=code\&scope=bot%20applications.commands%20guilds)
 
-## Introduction
-
-**Ravi a semi Public Customizable Bot, And a utility Ticketing Bot Towards apm portals, to help apm managers.**
-
-### Our Bot Developers
-
-* `! kim jaehyun.#8775`
-* `いちかちゃん#3599`
-
-### Getting Started
-
-The first step is to make sure **Ravi** is actually in your guild! You can invite the bot to guilds you have with "**Manage Server"** permissions.
-
-* **Tip:** The Bot has **89** commands in total.
-* By default, **Ravi** will ask for Administrator permissions, and it is highly recommended that you grant them. You may also customize the bot's permissions by editing the bot's role. See FAQ for more details on customizing permissions.
-* **Important:** Giving **Ravi** Administrator permissions to ensure functionality.
-* For more specific and detailed help for each command, use `!nani [topic]`.
-* For guides on how to use the bot, use `!guide`.
+\
+Please make sure the bot has "administrator" permissions. This is needed for the bot to work properly, without having any issues. \
+\
+When adding Ravi Bot to your server, please make sure that your server meets the minimum of 100+ member requirements, or the bot will automatically leave your server.
 
 ### Configuration
 
-Once you have added The bot it will keep track of commands executed and the Bot Owners can see everything you do with the Integration. In order to take advantage of all of **Ravi**'s features, please configure it in the bot settings.
+{% hint style="danger" %}
+If the bot is not responding to commands make sure it has the perms it's needed.
+
+_(Create a support ticket in our support server if you are still having issues)_
+{% endhint %}
 
 ### Documentation Syntax
 
@@ -38,4 +26,34 @@ Once you have added The bot it will keep track of commands executed and the Bot 
 * `[ ]` - required parameter
 * `( )` - optional parameter
 * `[thing1 | thing2]` - select one of the given options
+
+{% hint style="info" %}
+For more specific and detailed help for each command, use `!nani [topic]`
+{% endhint %}
+
+## Commands list
+
+{% content-ref url="commands-list/utilities.md" %}
+[utilities.md](commands-list/utilities.md)
+{% endcontent-ref %}
+
+{% content-ref url="commands-list/management.md" %}
+[management.md](commands-list/management.md)
+{% endcontent-ref %}
+
+{% content-ref url="commands-list/suggestions.md" %}
+[suggestions.md](commands-list/suggestions.md)
+{% endcontent-ref %}
+
+{% content-ref url="commands-list/ticketing.md" %}
+[ticketing.md](commands-list/ticketing.md)
+{% endcontent-ref %}
+
+{% content-ref url="commands-list/welcome-system.md" %}
+[welcome-system.md](commands-list/welcome-system.md)
+{% endcontent-ref %}
+
+{% content-ref url="commands-list/partnerships.md" %}
+[partnerships.md](commands-list/partnerships.md)
+{% endcontent-ref %}
 
