@@ -4,13 +4,11 @@ description: Ravi Docs
 
 # Home
 
-![GitHub issues](https://img.shields.io/github/issues/Jeffreyz1129/ravibot.website.api?style=for-the-badge) ![GitHub pull requests](https://img.shields.io/github/issues-pr/Jeffreyz1129/ravibot.website.api?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/Jeffreyz1129/ravibot.website.api?style=for-the-badge)
-
 * Join [**Ravi Support** ](https://discord.gg/gv2vjKqZP7)for regular updates & giveaways!
 * **Note**: Ravi's bot prefix is `!` ( not customizable)
 * **Invite:** [**Click Here**](https://bit.ly/raviticket)
 
-### Introduction
+## Introduction
 
 **Ravi a semi Public Customizable Bot, And a utility Ticketing Bot Towards apm portals, to help apm managers.**
 
@@ -41,10 +39,3 @@ Once you have added The bot it will keep track of commands executed and the Bot 
 * `( )` - optional parameter
 * `[thing1 | thing2]` - select one of the given options
 
-### Note from the owners
-
-We receive all Dms we get from our bots get! please do not troll or spam It's DMS, you will be banned & blacklisted from using Them. Thank you for using the Bots, So much love.
-
-### Signed,
-
-Jeffrey
