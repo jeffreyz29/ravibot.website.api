@@ -9,12 +9,12 @@ Please read this Terms of Service agreement carefully before accessing or using 
 ## **Our services**
 
 1. [**Ravi Documentation**](https://ravi-docs.gitbook.io) - Documentation page of Ravi APM Ticket Bot.
-2. [**Ravi Bot**](https://bit.ly/raviticket) **-** Our APM Ticketing Discord Bot
+2. [**Ravi Bot**](https://discord.com/api/oauth2/authorize?client\_id=809561873040146461\&permissions=8\&redirect\_uri=https%3A%2F%2Fravi-docs.gitbook.io%2Fravi-documentation\&response\_type=code\&scope=bot%20applications.commands%20guilds) **-** Our APM Ticketing Discord Bot
 3. [**Status Page**](https://ravi-bot.instatus.com) - Our Official Status Page for Ravi
 
 ## Agreements
 
-Your use of our Bot and Services must not violate Our Terms Of Services, Or you will be banned and blacklisted from using it. Any abuse to Bot may result in temporary or permanent suspension of your access to Our Bot. We monitor the bot's DM 24/7, any typical messages sent to the bot DMS that includes gore content, spamming, etc. You will be banned and blacklisted from using the bot.
+Your use of our Bot and Services must not violate Our Terms Of Service, Or you will be banned and blacklisted from using it. Any abuse to Bot may result in temporary or permanent suspension of your access to Our Bot. We monitor the bot's DM 24/7, any typical messages sent to the bot DMS that includes gore content, spamming, etc. You will be banned and blacklisted from using the bot.
 
 ## User Data Content Storage
 
@@ -42,8 +42,6 @@ Our Terms of Service at any time will be updated in the event of any such amendm
 
 ## Contact
 
-You may contact us via our [support server](https://discord.com/invite/gv2vjKqZP7) or you can contact us at:\
+You may contact us via our [support server](https://discord.com/invite/gv2vjKqZP7)\
 \
-[`https://ravibot.zohodesk.com/portal/en/home`](https://ravibot.zohodesk.com/portal/en/home)\
-\
-© 2022 Ravi Bot - All Rights Reserved
+© 2023 Ravi Bot - All Rights Reserved
