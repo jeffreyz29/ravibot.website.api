@@ -21,7 +21,7 @@ description: Configuration for Ticketing
 | `!rename [name]`              | renames a ticket \[you must be in the ticket to rename it]                                                          |
 | `!set-ticket-msg [message]`   | Sets a custom ticket message to the tickets when created                                                            |
 | `!setticketlog <#channel>`    | when someone executes the close ticket command it will send the ticket transcript to the channel it has been set to |
-| `add user`                    | adds a user to a ticket                                                                                             |
+| `!add user`                   | adds a user to a ticket                                                                                             |
 | `!remove user`                | removes a user from a ticket                                                                                        |
 | `ticket blacklist add/remove` | this adds/removes a user from blacklist when massing with a portal                                                  |
 
