@@ -15,7 +15,7 @@ description: Configuration for Utilities
 | `inviteinfo [code]`    | Display information on a user's invites, messages, who they were invited by, and who they last invited                                                             |
 | `!guide`               | Displays a list of command topic                                                                                                                                   |
 | `!afk`                 | Display the user as afk                                                                                                                                            |
-| `!nafk`                | ⚠️ This command has been depreciated. (your afk will now be auto set to "disabled" without having to use this command.)                                            |
+| `!nafk`                | ⚠️ - This Command has been Deprecated.                                                                                                                             |
 | `!links`               | Display links to invite the **Bot**, Vote, ETC.                                                                                                                    |
 | `!say`                 | <p>repeats what the users says</p><p>e.g. <code>!say hi</code></p>                                                                                                 |
 | `!updates`             | Displays the bots current changelogs                                                                                                                               |
