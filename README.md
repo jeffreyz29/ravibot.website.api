@@ -11,7 +11,7 @@ A Semi-Public Customizable Bot, And a utility Ticketing Bot Towards apm portals
 \
 Please make sure the bot has "administrator" permissions. This is needed for the bot to work properly, without having any issues. \
 \
-When adding Ravi Bot to your server, please make sure that your server meets the minimum of 100+ member requirements, or the bot will automatically leave your server.
+When adding Ravi Bot to your server, please make sure that your server meets the minimum of 5+ member requirements, or the bot will automatically leave your server.
 
 ### Configuration
 
