@@ -12,7 +12,7 @@ description: Configuration for Utilities
 | `!stats`               | Display **Ravi's** stats                                                                                                                                           |
 | `!ping`                | Check R**avi's** ping                                                                                                                                              |
 | `!av`                  | <p>Display's a users avatar</p><p>ex: <code>!av</code></p>                                                                                                         |
-| `inviteinfo [code]`    | Display information on a user's invites, messages, who they were invited by, and who they last invited                                                             |
+| `!inviteinfo [code]`   | Display information on a user's invites, messages, who they were invited by, and who they last invited                                                             |
 | `!guide`               | Displays a list of command topic                                                                                                                                   |
 | `!afk`                 | Display the user as afk                                                                                                                                            |
 | `!nafk`                | ⚠️ - This Command has been Deprecated.                                                                                                                             |
@@ -21,7 +21,7 @@ description: Configuration for Utilities
 | `!updates`             | Displays the bots current changelogs                                                                                                                               |
 | `!noticeme`            | sends a report/bug to the developer                                                                                                                                |
 | `!quote`               | <p>Quotes any messages given from a Message-ID or Message Link</p><p>e.g. <code>!quote &#x3C;message id></code><br>e.g.<code>!quote &#x3C;message link></code></p> |
-| `whois`                | Displays user info                                                                                                                                                 |
+| `!whois`               | Displays user info                                                                                                                                                 |
 | `!invid`               | <p>Sends the provided Guild ID server invite<br>Note: this command only works if the bot is in the guild</p>                                                       |
 | `!slowmode`            | <p>sets a slowmode for a channel<br>eg: <code>!slowmode &#x3C;number> &#x3C;unix></code><br>usage: <code>!slowmode 2 h</code></p>                                  |
 | `!timeout`             | <p>sets a timeout to a specific user.<br>timeouts are only acceptable to 1 week duration<br>usage: <code>!timeout &#x3C;user/UserID> &#x3C;time></code></p>        |
@@ -36,16 +36,16 @@ description: Configuration for Utilities
 
 **Bot Owner | 10 commands**
 
-| Command                                            | Description                                                                                                                         |
-| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| `shutdown`                                         | <p>Shuts the bot down.</p><p>Requires: <code>BOT DEV ONLY</code></p>                                                                |
-| `restart`                                          | <p>Restarts the bot down.<br>Requires: <code>BOT DEV ONLY</code></p>                                                                |
-| `devhelp`                                          | <p>Display's Developer Help Panel</p><p>Requires: <code>BOT DEV ONLY</code></p>                                                     |
-| `guild leave`                                      | <p>Leaves a certain guild/server</p><p>Requires: <code>BOT DEV ONLY</code></p>                                                      |
-| `unblst server`                                    | <p>UnBlacklist a certain guild from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>                                     |
-| `blst server`                                      | <p>Blacklist a certain guild from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>                                       |
-| `blst user`                                        | <p>Blacklist a certain user from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>                                        |
-| `unblst user`                                      | <p>UnBlacklist a certain user from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>                                      |
-| `eval`                                             | <p>This will execute every function that has been provided by a user.<br>Requires: <code>BOT DEV ONLY</code></p>                    |
-| `serverlist`                                       | <p>display's info about each guilds, and shows how many servers the bot has connected to<br>Requires: <code>BOT DEV ONLY</code></p> |
-| `var <server/user> <set/view> <var name> <amount>` | <p>bot variable settings, that displays servers/users database vars<br>Requires: <code>BOT DEV ONLY</code></p>                      |
+| Command                                             | Description                                                                                                                         |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| `!shutdown`                                         | <p>Shuts the bot down.</p><p>Requires: <code>BOT DEV ONLY</code></p>                                                                |
+| `!restart`                                          | <p>Restarts the bot down.<br>Requires: <code>BOT DEV ONLY</code></p>                                                                |
+| `!devhelp`                                          | <p>Display's Developer Help Panel</p><p>Requires: <code>BOT DEV ONLY</code></p>                                                     |
+| `!guild leave`                                      | <p>Leaves a certain guild/server</p><p>Requires: <code>BOT DEV ONLY</code></p>                                                      |
+| `!unblst server`                                    | <p>UnBlacklist a certain guild from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>                                     |
+| `!blst server`                                      | <p>Blacklist a certain guild from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>                                       |
+| `!blst user`                                        | <p>Blacklist a certain user from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>                                        |
+| `!unblst user`                                      | <p>UnBlacklist a certain user from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>                                      |
+| `!eval`                                             | <p>This will execute every function that has been provided by a user.<br>Requires: <code>BOT DEV ONLY</code></p>                    |
+| `!serverlist`                                       | <p>display's info about each guilds, and shows how many servers the bot has connected to<br>Requires: <code>BOT DEV ONLY</code></p> |
+| `!var <server/user> <set/view> <var name> <amount>` | <p>bot variable settings, that displays servers/users database vars<br>Requires: <code>BOT DEV ONLY</code></p>                      |
