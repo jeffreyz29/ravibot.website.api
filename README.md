@@ -6,7 +6,7 @@ description: Introduction to ravi apm bot
 
 A Semi-Public Customizable Bot, And a utility Ticketing Bot Towards apm portals
 
-### First, add please add the bot by clicking [here](https://discord.com/api/oauth2/authorize?client\_id=809561873040146461\&permissions=8\&redirect\_uri=https%3A%2F%2Fravi-docs.gitbook.io%2Fravi-documentation\&response\_type=code\&scope=bot%20applications.commands%20guilds)
+### First, please add the bot by clicking [here](https://discord.com/api/oauth2/authorize?client\_id=809561873040146461\&permissions=8\&redirect\_uri=https%3A%2F%2Fravi-docs.gitbook.io%2Fravi-documentation\&response\_type=code\&scope=bot%20applications.commands%20guilds)
 
 \
 Please make sure the bot has "administrator" permissions. This is needed for the bot to work properly, without having any issues. \
