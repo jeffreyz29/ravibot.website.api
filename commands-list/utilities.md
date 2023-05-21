@@ -34,18 +34,19 @@ description: Configuration for Utilities
 
 **Tip:** `[user]`can be a `@user` or a `userID`.
 
-**Bot Owner | 10 commands**
+**Bot Owner | 12 commands**
 
 | Command                                             | Description                                                                                                                         |
 | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| `!guild leave`                                      | <p>Leaves a certain guild/server</p><p>Requires: <code>BOT DEV ONLY</code></p>                                                      |
 | `!shutdown`                                         | <p>Shuts the bot down.</p><p>Requires: <code>BOT DEV ONLY</code></p>                                                                |
 | `!restart`                                          | <p>Restarts the bot down.<br>Requires: <code>BOT DEV ONLY</code></p>                                                                |
 | `!devhelp`                                          | <p>Display's Developer Help Panel</p><p>Requires: <code>BOT DEV ONLY</code></p>                                                     |
-| `!guild leave`                                      | <p>Leaves a certain guild/server</p><p>Requires: <code>BOT DEV ONLY</code></p>                                                      |
-| `!unblst server`                                    | <p>UnBlacklist a certain guild from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>                                     |
 | `!blst server`                                      | <p>Blacklist a certain guild from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>                                       |
+| `!unblst server`                                    | <p>UnBlacklist a certain guild from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>                                     |
 | `!blst user`                                        | <p>Blacklist a certain user from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>                                        |
 | `!unblst user`                                      | <p>UnBlacklist a certain user from using the bot</p><p>Requires: <code>BOT DEV ONLY</code></p>                                      |
 | `!eval`                                             | <p>This will execute every function that has been provided by a user.<br>Requires: <code>BOT DEV ONLY</code></p>                    |
 | `!serverlist`                                       | <p>display's info about each guilds, and shows how many servers the bot has connected to<br>Requires: <code>BOT DEV ONLY</code></p> |
 | `!var <server/user> <set/view> <var name> <amount>` | <p>bot variable settings, that displays servers/users database vars<br>Requires: <code>BOT DEV ONLY</code></p>                      |
+| `!set-botupdates`                                   | <p>set the new updates for the bot <br>Requires: <code>BOT DEV ONLY</code></p>                                                      |
