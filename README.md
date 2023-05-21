@@ -35,8 +35,8 @@ For more specific and detailed help for each command, use `!nani [topic]`
 
 ## Commands list
 
-{% content-ref url="commands-list/utilities.md" %}
-[utilities.md](commands-list/utilities.md)
+{% content-ref url="commands-list/utilities/" %}
+[utilities](commands-list/utilities/)
 {% endcontent-ref %}
 
 {% content-ref url="commands-list/management.md" %}

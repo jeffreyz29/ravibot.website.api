@@ -17,7 +17,8 @@
 
 ## Commands List
 
-* [Utilities](commands-list/utilities.md)
+* [Utilities](commands-list/utilities/README.md)
+  * [Command Topics](commands-list/utilities/command-topics.md)
 * [Management](commands-list/management.md)
 * [Suggestions](commands-list/suggestions.md)
 * [Ticketing](commands-list/ticketing.md)
