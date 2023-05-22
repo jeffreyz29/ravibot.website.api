@@ -13,6 +13,10 @@ Please make sure the bot has "administrator" permissions. This is needed for the
 \
 When adding Ravi Bot to your server, please make sure that your server meets the minimum of 5+ member requirements, or the bot will automatically leave your server.
 
+### BOT STATUS
+
+{% embed url="https://ravi-bot.instatus.com/" %}
+
 ### Configuration
 
 {% hint style="danger" %}
