@@ -4,33 +4,34 @@ description: Configuration for Utilities
 
 # Utilities
 
-**General | 23 commands**
+**General | 24 commands**
 
-| Command              | Description                                                                                                                                                        |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `!help`              | Display the bots commands or information on a specific command  `!help`                                                                                            |
-| `!stats`             | Display **Ravi's** stats                                                                                                                                           |
-| `!ping`              | Check R**avi's** ping                                                                                                                                              |
-| `!av`                | <p>Display's a users avatar</p><p>ex: <code>!av</code></p>                                                                                                         |
-| `!inviteinfo [code]` | Display information on a user's invites, messages, who they were invited by, and who they last invited                                                             |
-| `!guide`             | Displays a list of command topic                                                                                                                                   |
-| `!afk`               | Display the user as afk                                                                                                                                            |
-| `!nafk`              | ⚠️ - This Command has been Deprecated.                                                                                                                             |
-| `!links`             | Display links to invite the **Bot**, Vote, ETC.                                                                                                                    |
-| `!say`               | <p>repeats what the users says</p><p>e.g. <code>!say hi</code></p>                                                                                                 |
-| `!updates`           | Displays the bots current changelogs                                                                                                                               |
-| `!noticeme`          | sends a report/bug to the developer                                                                                                                                |
-| `!quote`             | <p>Quotes any messages given from a Message-ID or Message Link</p><p>e.g. <code>!quote &#x3C;message id></code><br>e.g.<code>!quote &#x3C;message link></code></p> |
-| `!whois`             | Displays user info                                                                                                                                                 |
-| `!invid`             | <p>Sends the provided Guild ID server invite<br>Note: this command only works if the bot is in the guild</p>                                                       |
-| `!slowmode`          | <p>sets a slowmode for a channel<br>eg: <code>!slowmode &#x3C;number> &#x3C;unix></code><br>usage: <code>!slowmode 2 h</code></p>                                  |
-| `!timeout`           | <p>sets a timeout to a specific user.<br>timeouts are only acceptable to 1 week duration<br>usage: <code>!timeout &#x3C;user/UserID> &#x3C;time></code></p>        |
-| `!pinmsg`            | pins a message from a given message ID                                                                                                                             |
-| `!unpinmsg`          | unpins a message from a given message ID                                                                                                                           |
-| `!serverinfo`        | Display's information about the server                                                                                                                             |
-| `!calc`              | Calculates a given expression                                                                                                                                      |
-| `!colorinfo`         | Displays the given hex color info                                                                                                                                  |
-| `!define`            | defines a given word                                                                                                                                               |
+| Command               | Description                                                                                                                                                                                          |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `!help`               | Display the bots commands or information on a specific command  `!help`                                                                                                                              |
+| `!stats`              | Display **Ravi's** stats                                                                                                                                                                             |
+| `!ping`               | Check R**avi's** ping                                                                                                                                                                                |
+| `!av`                 | <p>Display's a users avatar</p><p>ex: <code>!av</code></p>                                                                                                                                           |
+| `!invitecodes [code]` | Display information about user invites, using an invite code, vanities do not work                                                                                                                   |
+| `!inviteinfo [code]`  | <p>Display information about a guild using an invite code, vanities do not work<br><br>Notes: if the bot is not in a specific guild, it will not show information and will return error message.</p> |
+| `!guide`              | Displays a list of command topic                                                                                                                                                                     |
+| `!afk`                | Display the user as afk                                                                                                                                                                              |
+| `!nafk`               | ⚠️ - This Command has been Deprecated.                                                                                                                                                               |
+| `!links`              | Display links to invite the **Bot**, Vote, ETC.                                                                                                                                                      |
+| `!say`                | <p>repeats what the users says</p><p>e.g. <code>!say hi</code></p>                                                                                                                                   |
+| `!updates`            | Displays the bots current changelogs                                                                                                                                                                 |
+| `!noticeme`           | sends a report/bug to the developer                                                                                                                                                                  |
+| `!quote`              | <p>Quotes any messages given from a Message-ID or Message Link</p><p>e.g. <code>!quote &#x3C;message id></code><br>e.g.<code>!quote &#x3C;message link></code></p>                                   |
+| `!whois`              | Displays user info                                                                                                                                                                                   |
+| `!invid`              | <p>Sends the provided Guild ID server invite<br>Note: this command only works if the bot is in the guild</p>                                                                                         |
+| `!slowmode`           | <p>sets a slowmode for a channel<br>eg: <code>!slowmode &#x3C;number> &#x3C;unix></code><br>usage: <code>!slowmode 2 h</code></p>                                                                    |
+| `!timeout`            | <p>sets a timeout to a specific user.<br>timeouts are only acceptable to 1 week duration<br>usage: <code>!timeout &#x3C;user/UserID> &#x3C;time></code></p>                                          |
+| `!pinmsg`             | pins a message from a given message ID                                                                                                                                                               |
+| `!unpinmsg`           | unpins a message from a given message ID                                                                                                                                                             |
+| `!serverinfo`         | Display's information about the server                                                                                                                                                               |
+| `!calc`               | Calculates a given expression                                                                                                                                                                        |
+| `!colorinfo`          | Displays the given hex color info                                                                                                                                                                    |
+| `!define`             | defines a given word                                                                                                                                                                                 |
 
 **Tip:** `[user]`can be a `@user` or a `userID`.
 
