@@ -14,7 +14,7 @@ Please read this Terms of Service agreement carefully before accessing or using 
 
 ## Agreements
 
-Your use of our Bot and Services must not violate Our Terms Of Service, Or you will be banned and blacklisted from using it. Any abuse to Bot may result in temporary or permanent suspension of your access to Our Bot. We monitor the bot's DM 24/7, any typical messages sent to the bot DMS that includes gore content, spamming, etc. You will be banned and blacklisted from using the bot.
+Your use of our Bot and Services must not violate Our Terms Of Service, Or you will be banned and blacklisted from using it. Any abuse of the bot may result in temporary or permanent suspension of your access to Our Bot. We monitor the bot's DM 24/7, any typical messages sent to the bot DMS, including gore content, spamming, etc. You will be banned and blacklisted from using the bot.
 
 ## User Data Content Storage
 
@@ -30,7 +30,7 @@ UserIDs, GuildIDs, and Message Contents When customizing the bot.
 
 ## Data Deletion
 
-You may request to have certain data removed. For servers, a server owner or other representative of the server (holding a position with Administrator permissions) may also contact us below to have the information held for your server deleted entirely. Note that this will likely affect the functionality of the bot on your server unless reconfigured. Requests for deletion of data could take up to 30 days to be completed.
+You may request to have certain data removed. For servers, a server owner or other representative of the server (holding a position with Administrator permissions) may also contact us below to have the information held for your server deleted entirely. Note that this will likely affect the bot's functionality on your server unless reconfigured. Requests for deletion of data could take up to 30 days to be completed.
 
 ## Third Parties
 
@@ -38,13 +38,12 @@ We do not share any data with third parties.
 
 ## Changes in Terms Of Services
 
-Our Terms of Service at any time will be updated in the event of any such amendments.
+Our Terms of Service will be updated at any time in case of any such amendments.
 
 ## Contact
 
-You may contact us via our [support server](https://discord.com/invite/gv2vjKqZP7) or email us @ support@ravibot.zohodesk.com
+You may contact us via our [support server](https://discord.com/invite/gv2vjKqZP7)&#x20;
 
-if non of the inquiries best fit your satisfaction please reach us out at\
-[https://ravibot.zohodesk.com/portal/en/newticket](https://ravibot.zohodesk.com/portal/en/newticket)\
+\
 \
 © 2023 Ravi Bot - All Rights Reserved
